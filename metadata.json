@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Samclef Design Portfolio",
+  "description": "A high-end, minimalist designer portfolio featuring artistic hero sections and responsive layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
